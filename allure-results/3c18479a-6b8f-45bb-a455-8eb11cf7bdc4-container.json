@@ -1,0 +1,1 @@
+{"uuid":"3c18479a-6b8f-45bb-a455-8eb11cf7bdc4","name":"testSelenium","children":["c9d6c6be-2736-4d2b-829c-aa23077b493f"],"befores":[{"name":"createLog","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1608293837989,"stop":1608293838015}],"afters":[],"links":[],"start":1608293837938,"stop":1608293892295}
